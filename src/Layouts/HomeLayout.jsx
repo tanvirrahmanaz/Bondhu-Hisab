@@ -4,10 +4,11 @@ import React from 'react';
 
 const HomeLayout = () => {
     return (
-        <div>
+        <>
+        
             <Navbar></Navbar>
             <Banner></Banner>
-        </div>
+        </>
     );
 };
 
